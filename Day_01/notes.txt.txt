@@ -1,0 +1,3 @@
+Used hashmap to store previously seen numbers.
+Looked for the complement of each number in the hashmap.
+Time: O(n), Space: O(n)
