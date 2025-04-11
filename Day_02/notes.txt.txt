@@ -1,0 +1,7 @@
+-Reversed the number using math
+-Checks if original number equals  reversed number and  returns appropriate result
+-Handles negative case directly
+Time: O(LogX), Space:O(1)
+
+
+
