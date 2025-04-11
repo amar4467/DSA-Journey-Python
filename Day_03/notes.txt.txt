@@ -1,0 +1,6 @@
+-obtains an array and accesses each element of the array
+-converts it into binary bits
+-compares no.of '1's in each element,if there iws a tie breaker,choose ascending orderof decimal value of array
+Time: O(n log n × log m), Space:O(n log m)
+
+
