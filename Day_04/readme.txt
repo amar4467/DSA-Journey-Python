@@ -1,0 +1,1 @@
+I've got a string input. i used a user defined dictionary to check if the roman number is in a sequence of lesser number before greater number. If yes, it'll subtract the value(like IX=10-1=9)and i add all these values to sum=0,which is then returned
